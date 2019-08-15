@@ -124,11 +124,13 @@
 
     "newline-per-chained-call": false,
 
+    "no-submodule-imports": false,
+
     "one-line": false,
 
     "interface-over-type-literal": false,
 
-    // "readonly-keyword": true,
+    "readonly-keyword": true,
     "no-delete": true,
     "no-method-signature": true,
 
