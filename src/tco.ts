@@ -1,0 +1,3 @@
+const recursive = () => recursive()
+
+recursive()
